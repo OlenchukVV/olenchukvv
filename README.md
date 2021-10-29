@@ -3,14 +3,14 @@
 ## I'm a begginer YouTuber, Musicant, Student University "KROK" and Software Engeneer
 
 ### Language and Tools
-![Pycharm](https://img.shields.io/badge/-Pycharm-090909?style=for-the-badge&logo=pycharm)
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
-![FLstudio](https://img.shields.io/badge/-FLStudio-090909?style=for-the-badge&logo=fl)
-![PremierPro](https://img.shields.io/badge/-PremierPro-090909?style=for-the-badge&logo=Adobe)
-![Photoshop](https://img.shields.io/badge/-Photoshop-090909?style=for-the-badge&logo=Adobe)
-![Blender](https://img.shields.io/badge/-Blender-090909?style=for-the-badge&logo=Blender)
-![Steam](https://img.shields.io/badge/-Steam-090909?style=for-the-badge&logo=Steam)
-![FLstudio](https://img.shields.io/badge/-FLStudio-090909?style=for-the-badge&logo=fl)
+[![Pycharm](https://img.shields.io/badge/-Pycharm-090909?style=for-the-badge&logo=pycharm)]()
+[![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)]()
+[![FLstudio](https://img.shields.io/badge/-FLStudio-090909?style=for-the-badge&logo=fl)]()
+[![PremierPro](https://img.shields.io/badge/-PremierPro-090909?style=for-the-badge&logo=Adobe)]()
+[![Photoshop](https://img.shields.io/badge/-Photoshop-090909?style=for-the-badge&logo=Adobe)]()
+[![Blender](https://img.shields.io/badge/-Blender-090909?style=for-the-badge&logo=Blender)]()
+[![Steam](https://img.shields.io/badge/-Steam-090909?style=for-the-badge&logo=Steam)]()
+[![FLstudio](https://img.shields.io/badge/-FLStudio-090909?style=for-the-badge&logo=fl)]()
 
 ### Follow Me
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCjo59i469cb9fudNwE1Ijog)
