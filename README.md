@@ -1,6 +1,6 @@
 ![Header](https://media.discordapp.net/attachments/612721931010965504/903549623736602624/shapka_for_youtube-fon-3-1024x576_1.png)
 
-## I'm a begginer YouTuber, Musicant, Student University "KROK" and Software Engeneer
+## I'm a begginer YouTuber, Musicant, Student University "KROK" and Software Engeneer (Dreyde.prod)
 
 ### Language and Tools
 [![Pycharm](https://img.shields.io/badge/-Pycharm-090909?style=for-the-badge&logo=pycharm)](https://www.jetbrains.com/pycharm/)
